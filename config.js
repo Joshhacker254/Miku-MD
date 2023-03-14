@@ -7,20 +7,20 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.Owner = ['254790735110']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['254790735110']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.ownertag = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
+global.BotName = "joshhacker"
+global.packname = "joshhacker bot"
+global.author = "By: josh"
+global.OwnerName = "joshhacker"
+global.BotSourceCode = "https://github.com/Joshhacker254/Miku-MD" // -- Please don't change -- //
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
+global.prefa = [''] // Prefix ---  change it to anythong you want except '@' //
 
 
 global.location = "West Bengal, India"
@@ -65,8 +65,8 @@ global.mess = {
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
-    nolink: 'Please provide me *link*, Baka!',
+    waiting: 'fear women...',
+    nolink: 'Please provide me *link*, rada!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
